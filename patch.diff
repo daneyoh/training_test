@@ -1,0 +1,19 @@
+diff --git a/README.md b/README.md
+index f5b6da9..2892692 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+ # lab1
++# Add main.c
+\ No newline at end of file
+diff --git a/main.c b/main.c
+new file mode 100644
+index 0000000..f984480
+--- /dev/null
++++ b/main.c
+@@ -0,0 +1,5 @@
++nt main(void)
++{
++	return 0;
++}
++
